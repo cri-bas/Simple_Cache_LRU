@@ -1,0 +1,3 @@
+/Users/franciscobarrera/Library/CloudStorage/OneDrive-LamarUniversity/Lamar Unviersity School Work/Fall 2024/Computer Architecture/Simple Cache LRU/cmake-build-debug/CMakeFiles/Simple_Cache_LRU.dir
+/Users/franciscobarrera/Library/CloudStorage/OneDrive-LamarUniversity/Lamar Unviersity School Work/Fall 2024/Computer Architecture/Simple Cache LRU/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/franciscobarrera/Library/CloudStorage/OneDrive-LamarUniversity/Lamar Unviersity School Work/Fall 2024/Computer Architecture/Simple Cache LRU/cmake-build-debug/CMakeFiles/rebuild_cache.dir

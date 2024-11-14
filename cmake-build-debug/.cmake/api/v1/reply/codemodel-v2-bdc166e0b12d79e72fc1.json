@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Simple_Cache_LRU",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Simple_Cache_LRU::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Simple_Cache_LRU-Debug-39503da026eb54122af6.json",
+					"name" : "Simple_Cache_LRU",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/franciscobarrera/Library/CloudStorage/OneDrive-LamarUniversity/Lamar Unviersity School Work/Fall 2024/Computer Architecture/Simple Cache LRU/cmake-build-debug",
+		"source" : "/Users/franciscobarrera/Library/CloudStorage/OneDrive-LamarUniversity/Lamar Unviersity School Work/Fall 2024/Computer Architecture/Simple Cache LRU"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
