@@ -32,7 +32,7 @@ This program allows users to:
 This project is structure in a way to ensure a modular and flexible design, allowing for easy experimentation with different cache configurations. It is primarily based on three classes ***Cache, CacheBlock, CacheSet*** and a main cpp file that serves as the entry point of the program.  
 
 The following image is a UML Diagram
-![UML DIAGRAM](assets/images/Simple Cache LRU UML Class Diagram.png) 
+![UML DIAGRAM](https://github.com/cri-bas/Simple_Cache_LRU/blob/master/assets/images/Simple%20Cache%20LRU%20UML%20Class%20Diagram.png)
 ### HOW TO RUN ###
 This program is written in C++, so you must make sure you have a C++ compiler installed. If you are using an IDE like **CLion** you can open the project in the IDE and set up a CMake build configuration.
 
@@ -40,10 +40,10 @@ If you are using GitHub, you can clone the repository and run it in your preferr
 
 Once you run the program, it will: 
 1. Prompt you to enter the total number of cache blocks.
-   2. This number is important as the number should be divisible by the associativity level (divisibility condition) For example, if you have 3 cache blocks and a 2-way set the program will print an error message like so: ![error message](assets/images/Simple Cache Divisibility Error Message.png)
+   2. This number is important as the number should be divisible by the associativity level (divisibility condition) For example, if you have 3 cache blocks and a 2-way set the program will print an error message like so: ![error message](https://github.com/cri-bas/Simple_Cache_LRU/blob/master/assets/images/Simple%20Cache%20Divisibility%20Error%20Message.png)
 3. Prompt you to enter the associativity option (1 for direct-mapped, 2 or 4 for set associative, 0 for fully associative)
 4. Prompt you to enter the memory sequence and ending it with a '-1'. 
 5. Print the results in a table. 
 
 **EXAMPLE RUN**  
-![Fullway Associative](assets/images/Fully Associative 4 cache block.png)
+![Fullway Associative](https://github.com/cri-bas/Simple_Cache_LRU/blob/master/assets/images/Fully%20Associative%204%20cache%20block.png) 
